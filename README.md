@@ -232,7 +232,7 @@ Progress | Courses | Duration | Effort | Prerequisites
 ## Final project
 
 Progress | Courses | Duration | Effort | Prerequisites
---: | :--: | :--: | :--: | :--:
+:--: | :--: | :--: | :--: | :--:
 :white_square_button: | [Fullstack Open](https://fullstackopen.com/en/) | 12 weeks | 15 hours/week | programming
 :white_square_button: | [Modern Robotics (Specialization)](https://www.coursera.org/specializations/modernrobotics) | 26 weeks | 2-5 hours/week | freshman-level physics, linear algebra, calculus, [linear ordinary differential equations](https://www.khanacademy.org/math/differential-equations)
 :white_square_button: | [Data Mining (Specialization)](https://www.coursera.org/specializations/data-mining) | 30 weeks | 2-5 hours/week | machine learning
